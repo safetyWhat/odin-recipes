@@ -1,0 +1,26 @@
+* {
+    background-color: antiquewhite;
+    width: auto;
+    text-align: center;
+}
+
+.eyeCandy {
+    height: auto;
+    width: 500px;
+}
+
+.description > p {
+    text-align: justify;
+}
+
+
+ul > li {
+    width: 500px;
+    text-align: left;
+}
+
+ol > li {
+    text-align: left;
+}
+
+
